@@ -6,7 +6,7 @@ Data Mining and Machine Learning
 Anaconda and Nvida Gpu
 #
 https://www.anaconda.com/download#downloads
-#
+## Project Setup
 In anaconda promt
 #
 $conda env create -f DMML_PRO.yml -n ML
