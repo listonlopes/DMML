@@ -1,8 +1,8 @@
 # DMML
 Data Mining and Machine Learning 
 
-#Requirements
-#
+# Requirements
+
 Anaconda and Nvida Gpu
 #
 https://www.anaconda.com/download#downloads
